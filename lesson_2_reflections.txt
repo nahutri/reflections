@@ -5,3 +5,11 @@ Git doesn't create a commit. But it starts to track the files.
 2)How is the staging area different from the working directory and the
 repository? What value do you think it offers?
 the staging area is the mid-man stage.
+
+3)How can you use the staging area to make sure you have one commit
+per logical change?
+git adds
+
+4)What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+if you want to keep different version of your work. you make two or more labels.
